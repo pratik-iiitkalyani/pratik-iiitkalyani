@@ -66,15 +66,6 @@
 
 ---
 
-<details open> 
- <summary><b>Checkout my latest Medium articles</b> :bookmark_tabs:</summary>
- 
-  <a target="_blank" href="https://medium.com/@pkraja121dss/redis-caching-with-nodejs-e4a442b4a04e">Redis-caching-with-nodejs</a>
-
-</details>
-
----
-
 <details>
 <summary>📈 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pratik-iiitkalyani&show_icons=true&theme=gotham" alt="pratik-iiitkalyani" />
