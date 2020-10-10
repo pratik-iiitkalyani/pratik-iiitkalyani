@@ -38,14 +38,17 @@
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
-<img alt="mongodb" width="26px" src="https://img.icons8.com/color/240/000000/mongodb.png" />
-</code>](https://www.mongodb.com/)
+<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+</code>](https://nodejs.org/en/)
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
 [<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
+<img alt="angular" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png" />
+</code>](https://angular.io/)
+[<code>
+<img alt="mongodb" width="26px" src="https://img.icons8.com/color/240/000000/mongodb.png" />
+</code>](https://www.mongodb.com/)
 [<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)
