@@ -10,6 +10,9 @@
 <a href="https://www.facebook.com/">
   <img align="right" alt="Pratik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://medium.com/@pkraja121dss/">
+  <img align="right" alt="Pratik's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 <!-- ## Hi, I'm [Pratik Kumar!] 👋 -->
 
 ## Hi, I'm Pratik Kumar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
