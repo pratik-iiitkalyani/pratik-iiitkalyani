@@ -38,6 +38,9 @@
 <img alt="django" width="26px" src="https://img.icons8.com/color/240/000000/django.png" />
 </code>]
 [<code>
+<img alt="mongodb" width="26px" src="https://img.icons8.com/color/240/000000/mongodb.png" />
+</code>]
+[<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
 [<code>
