@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/pratik.kumar_121/">
   <img align="right" alt="Pratik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/">
+<a href="www.facebook.com/profile.php?id=100004788546777/">
   <img align="right" alt="Pratik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://medium.com/@pkraja121dss/">
