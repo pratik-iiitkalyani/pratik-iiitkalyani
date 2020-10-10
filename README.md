@@ -32,6 +32,12 @@
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
+<img alt="django" width="26px" src="https://img.icons8.com/color/240/000000/django.png" />
+</code>]
+[<code>
+<img alt="mongodb" width="26px" src="https://img.icons8.com/color/240/000000/mongodb.png" />
+</code>]
+[<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
