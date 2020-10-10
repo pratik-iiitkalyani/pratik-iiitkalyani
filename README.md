@@ -2,7 +2,7 @@
 
 ## Hi, I'm Pratik Kumar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<p><em>Full Stack developer at <a href="https://corp.rakuten.co.in/">Rakuten India</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Full Stack developer at <a href="https://corp.rakuten.co.in/">Rakuten India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 - 🌱 I’m currently learning React and Django;
 - 💬 Ask me about anything, I am happy to help;
