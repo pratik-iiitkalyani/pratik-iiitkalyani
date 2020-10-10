@@ -65,9 +65,6 @@
 </code>](https://git-scm.com/)
 
 ---
-<details>
-<summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pratik-iiitkalyani&show_icons=true&theme=gotham" alt="pratik-iiitkalyani" />
 
-</details>
