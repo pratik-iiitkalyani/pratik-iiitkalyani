@@ -68,6 +68,9 @@
 [<code>
 
 ---
+<details>
+<summary>📈 My GitHub Stats</summary>
 
-[![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratik-iiitkalyani)](https://github.com/pratik-iiitkalyani/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pratik-iiitkalyani&show_icons=true&theme=gotham" alt="pratik-iiitkalyani" />
 
+</details>
