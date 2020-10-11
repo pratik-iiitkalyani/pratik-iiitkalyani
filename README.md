@@ -69,8 +69,7 @@
 </code>](https://git-scm.com/)
 
 ---
-
-<summary>📈 My GitHub Stats</summary>
+### 📈 My GitHub Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pratik-iiitkalyani&show_icons=true&theme=gotham" alt="pratik-iiitkalyani" />
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pratik-iiitkalyani&&style=flat-square" align="center" />
