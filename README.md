@@ -15,9 +15,7 @@
 </a>
 <!-- ## Hi, I'm [Pratik Kumar!] 👋 -->
 
-### <div align="center">I'm Rohan , currently working at Microsoft and building UI/UX 🚀</div> 
-
-## Hi, I'm Pratik Kumar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## <div align="center">Hi, I'm Pratik Kumar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">🚀</div>
 
 <p><em>Full Stack developer at <a href="https://corp.rakuten.co.in/">Rakuten India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
