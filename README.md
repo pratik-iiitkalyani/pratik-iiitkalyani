@@ -19,10 +19,10 @@
 
 <p><em>Full Stack developer at <a href="https://corp.rakuten.co.in/">Rakuten India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
-- 🌱 I’m currently learning React and Django;
+- 🌱 I’m currently learning React;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I had a fitbit but sadly I'm a Software Engineer.
-- 📫 How to reach me: pratik@iiitkalyani.ac.in;
+- 📫 How to reach me: pratikk@iiitkalyani.ac.in;
 
 ---
 
