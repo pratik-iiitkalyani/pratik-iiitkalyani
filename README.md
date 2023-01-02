@@ -17,7 +17,7 @@
 
 ## <div align="center">Hi, I'm Pratik Kumar🚀</div>
 
-<p><em>Full Stack developer at <a href="https://corp.rakuten.co.in/">Rakuten India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Frontend developer at <a href="https://turvo.com/">Turvo Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 - 🌱 I’m currently learning React;
 - 💬 Ask me about anything, I am happy to help;
