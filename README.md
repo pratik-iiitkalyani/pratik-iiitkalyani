@@ -63,10 +63,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 </div></td></tr></table>  
 
-
----
 ### 📈 GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pratik-iiitkalyani&show_icons=true&theme=gotham" alt="pratik-iiitkalyani" />
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=pratik-iiitkalyani&&style=flat-square" align="center" />
-</div> 
+<a href="https://github.com/sadanandpai/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-iiitkalyani&theme=radical&hide=glsl,python" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-iiitkalyani&show_icons=true&theme=radical&line_height=27" alt="sadanandpai's github stats" />
+</a>
+
