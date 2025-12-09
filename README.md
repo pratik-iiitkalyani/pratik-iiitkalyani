@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning React;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I had a fitbit but sadly I'm a Software Engineer.
-- 📫 How to reach me: pratikk@iiitkalyani.ac.in;
+- 📫 How to reach me: pratik.iiitk@gmail.com;
 
 ---
 <br>
